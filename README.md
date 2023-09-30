@@ -1,4 +1,5 @@
-# TNT Faces: T‿T T_T T‸T
+# TNT Faces
+T‿T T_T T‸T
 Resource packs for Minecraft Java and Bedrock which replaces the TNT label with emoticon faces.
 
 For Java, hit Windows+R and in the Run prompt, type %appdata% and move one or all packs into .minecraft/resourcepacks
