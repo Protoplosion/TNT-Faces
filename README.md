@@ -1,6 +1,8 @@
 # TNT-Chan Bedrock Resource Pack
 This Resource pack replaces the Creeper mob with TNT-Chan with custom model and animations.
+
 This pack is inside the Bedrock folder. Simply download and open. Minecraft will open if not already and install the resource pack.
+
 The design of TNT-Chan is based on [This Post](https://redd.it/17oloos/) by [u/playror](https://www.reddit.com/user/playror/).
 
 ## TNT Faces T‿T T_T T‸T
